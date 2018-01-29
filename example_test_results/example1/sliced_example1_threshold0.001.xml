@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  
+  
+  
+  
+  <!--=========================================================-->
+  <part id="P1">
+    <measure number="1" width="1180">
+      
+      <attributes>
+        <divisions>8</divisions>
+        
+        
+      </attributes>
+      
+      
+      <note default-x="61">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="102">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="143">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="185">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="226">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="267">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="308">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="350">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="390">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="432">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="473">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="514">
+        
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="555">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="597">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="638">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="679">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="720">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="762">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="803">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="844">
+        
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="885">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="927">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="967">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="1009">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="1050">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="1091">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="1132">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      
+    </measure>
+  </part>
+  <!--=========================================================-->
+</score-partwise>

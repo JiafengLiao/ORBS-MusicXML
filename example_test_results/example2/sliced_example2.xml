@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  
+  
+  
+  
+  <part-list>
+    
+    <score-part id="P1">
+      
+      
+      <midi-instrument id="P1-I5">
+        
+        <midi-program>54</midi-program>
+        
+        
+      </midi-instrument>
+    </score-part>
+    <score-part id="P2">
+      
+      
+      
+      <midi-instrument id="P2-I4">
+        <midi-channel>2</midi-channel>
+        <midi-program>42</midi-program>
+        
+        
+      </midi-instrument>
+      <midi-instrument id="P2-I3">
+        <midi-channel>3</midi-channel>
+        <midi-program>43</midi-program>
+        
+        
+      </midi-instrument>
+    </score-part>
+    
+  </part-list>
+  <!--=========================================================-->
+  <part id="P1">
+    <measure number="1" width="199">
+      
+      <attributes>
+        <divisions>8</divisions>
+        
+        
+      </attributes>
+      
+      
+      <note default-x="70">
+        <pitch>
+          
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="95">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="119">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="143">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="170">
+        
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="192">
+      
+      
+      
+      <note default-x="105">
+        <rest/>
+        
+        
+        
+      </note>
+      <note default-x="134">
+        <rest/>
+        
+        
+        
+      </note>
+      <note default-x="162">
+        
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="3" width="174">
+      
+      <note default-x="13">
+        
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="42">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="85">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+      <note default-x="112">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>6</duration>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="152">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        <duration>2</duration>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="142">
+      
+      <note default-x="13">
+        
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="44">
+        <rest/>
+        
+        
+        
+      </note>
+      <note default-x="80">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="108">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        <tie type="start"/>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="157">
+      
+      <note default-x="13">
+        
+        
+        <tie type="stop"/>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="37">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="60">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="84">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="108">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="167">
+      
+      <note default-x="10">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="57">
+        <rest/>
+        <duration>4</duration>
+        
+        
+      </note>
+      <note default-x="83">
+        <pitch>
+          
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+      </note>
+      <note default-x="109">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        <duration>6</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="145">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>2</duration>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="221">
+      
+      <note default-x="12">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="32">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        <tie type="start"/>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="65">
+        
+        <duration>2</duration>
+        <tie type="stop"/>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="84">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="105">
+        
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="149">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="185">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="202">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="74">
+      
+      <note default-x="16">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>24</duration>
+        
+        
+        
+        
+        
+      </note>
+      
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="218">
+      
+      <note default-x="74">
+        
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="113">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="137">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="167">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="192">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="10" width="138">
+      
+      <note default-x="13">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="49">
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="101">
+        
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="133">
+      
+      
+      <note default-x="14">
+        
+        
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="50">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="96">
+        <rest/>
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="12" width="138">
+      
+      <note default-x="16">
+        
+        <duration>12</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="64">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+      <note default-x="88">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="114">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="13" width="168">
+      
+      <note default-x="13">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="37">
+        <pitch>
+          <step>B</step>
+          
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="58">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="83">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>12</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="135">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="14" width="132">
+      
+      
+      <note default-x="16">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="49">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          
+        </pitch>
+        <duration>12</duration>
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="98">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="15" width="183">
+      
+      <note default-x="10">
+        
+        <duration>12</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="96">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+      <note default-x="124">
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="147">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="16" width="93">
+      
+      <note default-x="13">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        <duration>16</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="58">
+        <rest/>
+        <duration>8</duration>
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="17" width="122">
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      
+      <note default-x="46">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>12</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="91">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+    </measure>
+  </part>
+  <!--=========================================================-->
+  <part id="P2">
+    <measure number="1" width="199">
+      
+      
+      <sound tempo="60"/>
+      <note>
+        <rest measure="yes"/>
+        <duration>40</duration>
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="192">
+      
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="105">
+        <rest/>
+        <duration>8</duration>
+        
+        
+        
+      </note>
+      <note default-x="134">
+        <rest/>
+        
+        
+        
+        
+      </note>
+      <note default-x="162">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="3" width="174">
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="42">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="66">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="112">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="142">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="142">
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="43">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="68">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="108">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="157">
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="37">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="60">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="108">
+        <rest/>
+        <duration>4</duration>
+        
+        
+        
+      </note>
+      <note default-x="132">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="167">
+      
+      
+      
+      
+      
+      
+      <note default-x="10">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="36">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="83">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="109">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="221">
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="12">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="32">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="65">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="105">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="149">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="74">
+      
+      
+      
+      <note default-x="16">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>24</duration>
+        
+        
+        
+        
+        
+      </note>
+      
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="218">
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="74">
+        
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="113">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="136">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="167">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="10" width="138">
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="49">
+        
+        <duration>4</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="83">
+        
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="101">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="133">
+      
+      
+      
+      
+      
+      
+      <note default-x="14">
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="50">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        <duration>16</duration>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="12" width="138">
+      
+      
+      
+      
+      <note default-x="16">
+        <pitch>
+          <step>G</step>
+          
+        </pitch>
+        <duration>12</duration>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="64">
+        <pitch>
+          <step>F</step>
+          
+        </pitch>
+        <duration>4</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="88">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>8</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="13" width="168">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>E</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="83">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>16</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="14" width="132">
+      
+      
+      <note default-x="16">
+        
+        <duration>8</duration>
+        <instrument id="P2-I4"/>
+        
+        
+        
+      </note>
+      <note default-x="49">
+        
+        
+        <instrument id="P2-I4"/>
+        
+        
+      </note>
+      
+      <note default-x="98">
+        
+        
+        
+        <instrument id="P2-I4"/>
+        
+        
+        
+        
+        
+      </note>
+      <backup>
+        <duration>24</duration>
+      </backup>
+      <note default-x="16">
+        
+        <duration>16</duration>
+        
+        
+        
+        
+      </note>
+      <note default-x="77">
+        <pitch>
+          <step>C</step>
+          
+        </pitch>
+        <duration>8</duration>
+        <tie type="start"/>
+        
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="15" width="183">
+      
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="10">
+        
+        
+        <tie type="stop"/>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="66">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>16</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="16" width="93">
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>A</step>
+          
+        </pitch>
+        
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="58">
+        <rest/>
+        <duration>8</duration>
+        
+        
+        
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="17" width="122">
+      
+      
+      
+      
+      
+      
+      
+      <note default-x="13">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        
+        
+        
+        
+        
+      </note>
+      <note default-x="46">
+        <pitch>
+          <step>D</step>
+          
+        </pitch>
+        <duration>16</duration>
+        
+        
+        
+        
+      </note>
+    </measure>
+  </part>
+  <!--=========================================================-->
+</score-partwise>
