@@ -5,21 +5,20 @@ timidity++ (http://timidity.sourceforge.net/#info)
 
 -------------
 
-This project is about exploring the music compression I symbolic perspective by building an application of MusicXML file slicer using tree observational algorithm. 
-Files:
-1. example_test_results
-2. example1.xml and example2.xml
-3. Perl script musicxml2mid
-4. Readme
+This project is about exploring the music compression in symbolic perspective by building an application of MusicXML file slicer using tree observational algorithm. 
+
 
 Requisition (library installation):
 1. libxml++(2.6 or 3)
+This is for parsing XML file to tree-node structure
 2. glib
 3. glibmm++
 4. boost
 5. c++11 compiler
 6. Musly
+Musly is a fast and high quality audio similarity library.
 7. timidity++
+For MIDI file conversion
 
 MacOS & Linux:
 
